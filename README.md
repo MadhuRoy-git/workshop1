@@ -1,0 +1,1 @@
+User inputs an integer 1 and integer2 and a mathematical operator (+,-,x or /)
