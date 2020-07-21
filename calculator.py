@@ -11,8 +11,11 @@ def operation( number1 , number2 , operator ):
         print( integer1 * integer2 )
     if operator == '/' :
         print( integer1 / integer2 )
+    if operator == '%' :
+        print( integer1 / integer2 )
     if operator == '^' :
         print( integer1 ^ integer2 )
+
 
 number1 = input("What's the first number? ")
 number2 = input("What's the second number? ")
